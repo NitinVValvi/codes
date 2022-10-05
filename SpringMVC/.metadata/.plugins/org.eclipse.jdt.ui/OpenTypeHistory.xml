@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=SpringMVCdemo/D:\/SpringMVC\/SpringMVCdemo\/src\/main\/webapp\/WEB-INF\/lib\/spring-web-5.0.5.RELEASE.jar&lt;org.springframework.web.context(WebApplicationContext.class[WebApplicationContext" modifiers="1537" timestamp="1640766276418"/>
+    <typeInfo handle="=mvc-project/D:\/SpringMVC\/mvc-project\/WebContent\/WEB-INF\/lib\/spring-webmvc-5.0.5.RELEASE.jar&lt;org.springframework.web.servlet(ViewResolver.class[ViewResolver" modifiers="1537" timestamp="1640806565326"/>
+    <typeInfo handle="=SpringMVCday2/D:\/SpringMVC\/SpringMVCday2\/src\/main\/webapp\/WEB-INF\/lib\/spring-webmvc-5.0.5.RELEASE.jar&lt;org.springframework.web.servlet(DispatcherServlet.class[DispatcherServlet" modifiers="33" timestamp="1640847563542"/>
+    <typeInfo handle="=mvc-project/D:\/SpringMVC\/mvc-project\/WebContent\/WEB-INF\/lib\/spring-webmvc-5.0.5.RELEASE.jar&lt;org.springframework.web.servlet.view(InternalResourceViewResolver.class[InternalResourceViewResolver" modifiers="1" timestamp="1640806565326"/>
+    <typeInfo handle="=EmployeeMvc-hibernate/D:\/SpringMVC\/EmployeeMvc-hibernate\/src\/main\/webapp\/WEB-INF\/lib\/spring-jdbc-5.0.5.RELEASE.jar&lt;org.springframework.jdbc.datasource(DriverManagerDataSource.class[DriverManagerDataSource" modifiers="33" timestamp="1641356706816"/>
+</typeInfoHistroy>

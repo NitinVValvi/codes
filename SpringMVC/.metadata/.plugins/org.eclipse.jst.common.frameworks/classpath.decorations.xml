@@ -1,0 +1,27 @@
+<classpath>
+  <container id="SpringMVCdemo!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="D:/SpringMVC/SpringMVCdemo/src/main/webapp/WEB-INF/lib/spring-web-5.0.5.RELEASE.jar">
+      <source-attachment-path>D:/spring-framework</source-attachment-path>
+    </entry>
+  </container>
+  <container id="mvc-project!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="D:/SpringMVC/mvc-project/WebContent/WEB-INF/lib/spring-webmvc-5.0.5.RELEASE.jar">
+      <source-attachment-path>D:/spring-framework</source-attachment-path>
+    </entry>
+  </container>
+  <container id="home.com!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="D:/SpringMVC/home.com/WebContent/WEB-INF/lib/spring-webmvc-5.0.5.RELEASE.jar">
+      <source-attachment-path>D:/spring-framework</source-attachment-path>
+    </entry>
+  </container>
+  <container id="SpringMVCday2!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="D:/SpringMVC/SpringMVCday2/src/main/webapp/WEB-INF/lib/spring-webmvc-5.0.5.RELEASE.jar">
+      <source-attachment-path>D:/spring-framework</source-attachment-path>
+    </entry>
+  </container>
+  <container id="EmployeeMvc-hibernate!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="D:/SpringMVC/EmployeeMvc-hibernate/src/main/webapp/WEB-INF/lib/spring-jdbc-5.0.5.RELEASE.jar">
+      <source-attachment-path>D:/hibernatejar/hibernatejar/required</source-attachment-path>
+    </entry>
+  </container>
+</classpath>
